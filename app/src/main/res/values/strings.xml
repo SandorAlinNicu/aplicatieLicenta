@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aplicatie Licenta</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="singup">Singup</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">Email</string>
+    <string name="loginhere">Already have an account? <u>Login</u></string>
+    <string name="signuphere">Create a new account? <u>SignUp</u></string>
+    <string name="welcome_to_my_app">Welcome to my app!</string>
+    <string name="facebook_app_id">460542368719777</string>
+    <string name="fb_login_protocol_scheme">fb460542368719777</string>
+    <string name="link_your_facebook_account">Link your facebook account</string>
+
+</resources>
